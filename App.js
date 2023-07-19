@@ -5,7 +5,7 @@ import {
   DdSdkReactNativeConfiguration,*/
   DatadogProviderConfiguration,
   DatadogProvider
-} from "@datadog/mobile-react-native";
+} from "expo-datadog";
 
 //DD RUM -> Start
 
